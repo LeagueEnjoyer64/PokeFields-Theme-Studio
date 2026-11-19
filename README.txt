@@ -19,7 +19,7 @@ MAKE YOUR COLORS
 3. You can also enter RGB numbers or a hex value. Opacity controls transparency.
 4. The "keep each control's existing transparency" option preserves different
    transparencies within a palette group. Changing opacity explicitly turns it off.
-5. Use Every color to search all 1,552 colors in the included game-theme catalog.
+5. Use Every color to search all 1,675 colors in the included game-theme catalog (from the November 19, 2026 game dump).
    Every individual color has a component sample. The layouts are illustrative.
 6. Optional corner rounding and border thickness apply to flat UI styles.
 
@@ -29,7 +29,7 @@ All elements shows all 21 categories, including normal, hovered, selected and
 focused buttons; tooltips; gold; IV/EV/nature/shiny highlights; PC slots; chat;
 and healthy, medium and low HP in both battle and summary bars.
 Expand Preview all matching colors to see each affected control and its exact RGBA.
-Every color mode also shows an exact-property sample for each of the 1,552 entries.
+Every color mode also shows an exact-property sample for each of the 1,675 entries.
 
 CHOOSE YOUR FONT
 Click Fonts in the header to search 1,916 families. You can also select a quick
@@ -84,7 +84,7 @@ The starter theme and a browser-generated export passed the official pfmod v1.2 
 with no skipped files and "theme loads". The editor passed automated browser checks
 for its picker, hue, RGB/hex, opacity, presets, undo/redo, project save/load, ZIP export,
 custom shapes, game-theme refresh, autosave, and mobile layout.
-All 21 palette categories and all 1,552 exact-color samples were checked.
+All 21 palette categories and all 1,675 exact-color samples were checked.
 The font export passed the official checker with 1 file loaded, 0 skipped, and
 theme loads. A font-only export was checked too. Font files and licenses are
 included, and font save/reload, custom upload, undo and offline selection were tested.
