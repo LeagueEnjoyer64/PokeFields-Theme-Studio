@@ -3,7 +3,7 @@ POKEFIELDS THEME STUDIO
 THIS IS THE EDITOR BUNDLE
 Do not import PokeFields-Theme-Studio-Package.zip into the game.
 Extract it and open the HTML editor. Import a ZIP exported by the editor,
-or import the included nintendo-field-green-ui.zip starter theme directly.
+or import the included tendo-field-green-ui.zip starter theme directly.
 
 OPEN THE EDITOR
 Open PokeFields-Theme-Studio.html with Firefox, Chrome, or Edge.
@@ -63,7 +63,7 @@ steps without installing the editor. The ZIP contains mod.json, theme.json,
 and README.txt directly at its root; no extracting or manual repackaging is needed.
 
 READY-MADE STARTER
-nintendo-field-green-ui.zip is a ready-to-import green-and-gold theme.
+tendo-field-green-ui.zip is a ready-to-import green-and-gold theme.
 It includes only mod.json, theme.json, and installation instructions.
 To install it, follow the same Mods > Import Mod steps above.
 
